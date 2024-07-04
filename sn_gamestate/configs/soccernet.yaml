@@ -33,7 +33,7 @@ pipeline:
   - pitch
   - calibration
   - jersey_number_detect
-  - tracklet_agg
+  - tracklet_agg #what does this do?
   - team
   - team_side
 
